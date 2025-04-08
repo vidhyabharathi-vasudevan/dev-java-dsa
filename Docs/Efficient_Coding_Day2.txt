@@ -1,0 +1,7 @@
+Recursion:
+    Base Condition:
+        The condition that is used to terminate the recursive calls,
+    Stack OverFlow Error:
+        When the input size is higher, too many calls are getting stored in the stack memory, so after 
+    particular limit, the stack memory gets full, so we do get the stack overflow error.
+    
