@@ -1,0 +1,13 @@
+Backtracking:
+    Divide problem into sub-problem
+    not all sub-problem will give the solution
+    if we divide the problem into sp1,sp2,sp3(Sub problem)
+    if we get the solution at sp1 we will not go to sp2
+    if we don't get the solution at sp1 will go to the sp2 and solve
+    continue till we get the solution
+
+
+    Not all sub-problem will give the solution
+
+    Recursion is one of the way to solve back tracking
+    
